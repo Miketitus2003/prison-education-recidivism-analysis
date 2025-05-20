@@ -1,0 +1,9 @@
+/your-repo-name/
+│
+├── data/              → Put your dataset(s) here
+├── notebooks/         → Your Jupyter/Colab notebook goes here
+├── src/               → Python scripts (like model functions, helpers)
+├── outputs/           → Visuals like charts, plots, tables
+├── reports/           → Final report + presentation slides (PDFs)
+├── requirements.txt   → List of packages used (Python tools)
+└── README.md          → Explains your whole project (we'll write this)
